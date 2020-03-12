@@ -1,3 +1,3 @@
-# Ketan Shah Timeline - Exmaple Timeline
+# Ketan Shah Timeline - Example Timeline
 
 https://pranitastudent.github.io/kshah-timeline/
